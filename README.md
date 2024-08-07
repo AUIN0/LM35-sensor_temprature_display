@@ -1,4 +1,4 @@
-# Temprature Display using LM35 sensor and an LCD I2C
+# Temprature Display using LM35 sensor and LCD I2C
 
 This project aims to display room temprature using LM35 sensor and an LCD I2C. I've uploaded the code and the circuit.
 
